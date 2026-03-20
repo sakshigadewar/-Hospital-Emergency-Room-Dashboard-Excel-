@@ -22,12 +22,11 @@ The Hospital Emergency Room Dashboard is an interactive Excel-based reporting to
 🎯 Objective
 
 Efficient management of emergency room operations is critical for improving patient care and hospital performance. This project aims to:
-
-Identify delays in patient handling and reduce waiting time
-Analyze patient admission trends and resource utilization
-Evaluate patient satisfaction to improve service quality
-Determine the most frequently referred departments
-Understand patient demographics for better planning
-Identify operational inefficiencies in emergency room workflow
+- Identify delays in patient handling and reduce waiting time
+- Analyze patient admission trends and resource utilization
+- Evaluate patient satisfaction to improve service quality
+- Determine the most frequently referred departments
+- Understand patient demographics for better planning
+- Identify operational inefficiencies in emergency room workflow
 
 ---
