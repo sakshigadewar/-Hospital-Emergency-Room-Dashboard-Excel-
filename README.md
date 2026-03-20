@@ -10,3 +10,6 @@ Developed an interactive Hospital Emergency Room Dashboard in Excel to analyze p
 - [How to Use](#-how-to-use)
 - [Future Improvements](#-future-improvements)
 - [Author](#-author)
+📊 Overview
+
+The Hospital Emergency Room Dashboard is an interactive Excel-based reporting tool designed to analyze patient flow, wait times, and hospital performance metrics. It helps stakeholders quickly understand key insights and improve decision-making in emergency healthcare services.
